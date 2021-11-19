@@ -12,7 +12,7 @@ It uses:
 
 # Demo video
 
-https://drive.google.com/file/d/1XLdGxWXVUpU96LJEla4rZF9Kot-fBKnF/view?usp=sharing
+
 
 ## Purpose
 
